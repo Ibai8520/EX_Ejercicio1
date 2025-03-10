@@ -10,7 +10,7 @@ public class MainTorneoFutbol {
         // Crear una instancia de la clase Equipo
         Equipo equipoMH = new Equipo("IES MH FC");
 
-        // Agregar jugadores al equipoMH
+        // Agregar jugadores  al equipoMH
         equipoMH.agregarJugador("Pepe", 9);
         equipoMH.agregarJugador("Aitana", 8);
         equipoMH.agregarJugador("Flores", 5);
