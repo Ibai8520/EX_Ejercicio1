@@ -11,7 +11,7 @@ public class MainTorneoFutbol {
         Equipo equipoMH = new Equipo("IES MH FC");
 
         // Agregar jugadores al equipoMH
-        equipoMH.agregarJugador("Pepe", 1);
+        equipoMH.agregarJugador("Pepe", 9);
         equipoMH.agregarJugador("Aitana", 8);
         equipoMH.agregarJugador("Flores", 5);
 
