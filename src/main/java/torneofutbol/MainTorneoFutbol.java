@@ -13,6 +13,7 @@ public class MainTorneoFutbol {
         // Agregar jugadores al equipoMH
         equipoMH.agregarJugador("Pepe", 1);
         equipoMH.agregarJugador("Aitana", 8);
+        equipoMH.agregarJugador("Flores", 5);
 
         // Mostrar la lista de jugadores del equipoMH
         System.out.println("\nLista de jugadores en el equipo "+equipoMH.getNombreEquipo()+":");
